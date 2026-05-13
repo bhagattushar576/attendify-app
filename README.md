@@ -125,7 +125,7 @@ Built with a **React + Vite** frontend and a **Java Spring Boot** REST API backe
 
 ## 📁 Project Structure
 
-```
+```bash
 attendify-app/
 │
 ├── attendify-frontend/                    # React + Vite frontend
