@@ -121,7 +121,6 @@ Built with a **React + Vite** frontend and a **Java Spring Boot** REST API backe
 
 ![View Attendance](Screenshots/View-attendance.png)
 
-```
 
 ## 📁 Project Structure
 
