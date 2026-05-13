@@ -101,28 +101,28 @@ Built with a **React + Vite** frontend and a **Java Spring Boot** REST API backe
 ### 🏠 Welcome Page
 > The public landing page — shows the system overview with quick-access cards: Mark Attendance, View Records, Manage Students, and Reports.
 
-![Welcome Page](screenshots/welcome.png)
+![Welcome Page](screenshots/Welcome.png)
 
 ---
 
 ### 🛡️ Admin Dashboard
 > Admins get a full-featured control panel — Add User, All User, Manage User, Add Subject, All Subject, and View Attendance.
 
-![Admin Dashboard](screenshots/admin-dashboard.png)
+![Admin Dashboard](screenshots/Admin-dashboard.png)
 
 ---
 
 ### 👨‍🏫 Faculty Dashboard
 > Faculty members can Add Students, view All Students, Manage Students, Mark Attendance, View Attendance, and update their Profile — all from one place.
 
-![Faculty Dashboard](screenshots/faculty-dashboard.png)
+![Faculty Dashboard](screenshots/Faculty-dashboard.png)
 
 ---
 
 ### 📋 View Attendance
 > Filter attendance records by faculty, subject, and date — with a clean tabular view showing session details, time, and number of students present.
 
-![View Attendance](screenshots/view-attendance.png)
+![View Attendance](screenshots/View-attendance.png)
 
 ---
 
